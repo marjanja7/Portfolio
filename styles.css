@@ -1,0 +1,200 @@
+.section{
+    background-color: rgb(248, 167, 224);
+}
+.centr{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    display: flex;
+    color: black;
+    justify-content:space-around;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.me{
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    flex-direction: row;
+    color: rgb(8, 4, 248);
+    font-size: 50px;
+    font-weight: 700px;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+}
+#about {font-family: 'Source Serif Pro', serif; }
+#contact{font-family: 'Source Serif Pro', serif; } 
+.peoples{
+    display: flex;
+    padding-top: 50px;
+    flex-direction: row;
+    color:black;
+    font-size: 30px;
+    font-weight: 600px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.first{
+    background-color: rgb(221, 238, 253);
+}
+.style{
+    width: 1250px;
+    height: 50px;
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+    font-weight: 200px;
+}
+.foto{
+    object-fit: cover;
+    object-position: center;
+    width: 300px;
+    height: 400px;
+    border-radius: 7px;
+    margin-left: 480px;
+    margin-bottom: 50px;   
+}
+.second {
+    background-color: rgb(210, 243, 243);
+
+}
+.skills {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    flex-direction: row;
+    color:black;
+    font-size: 30px;
+    font-weight: 600px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#skill{font-family: 'Source Serif Pro', serif; }
+.container {
+    background-color: rgb(210, 243, 243);
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+}
+.item{
+    padding: 10px 10px;
+    margin: 5px;
+    text-align: center;
+    background-color: #e6e6ff;
+    border-color: #3730a3;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:7px;
+}
+.list1{
+    font-family: 'Source Serif Pro', serif ;
+    font-size: 15px;
+    
+}
+.list2{
+    padding-left: 35px;
+    font-family: 'Source Serif Pro', serif ;
+    font-size:15px;
+}
+.third{
+    background-color: rgb(221, 238, 253);
+}
+.third1{
+    font-weight: 400px;
+    display: flex;
+    background-color: rgb(221, 238, 253);
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#title{
+    position: relative;
+    font-size: 30px;
+    font-family: 'Source Serif Pro', serif;
+}
+.third2{
+    width: 350px;
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+} 
+.blocks{ 
+    background-color: rgb(210, 243, 243);
+} 
+#blocks1{
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 40px;
+} 
+.block1{
+    height: 100px;
+    width: 150px;
+    background-color: #ebfab5;
+}
+.block2{
+    height: 100px;
+    width: 150px;
+    background-color: #faa9ec;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.block3{
+    height: 100px;
+    width: 150px;
+    background-color: #9ff398;
+}
+#work{font-family: 'Source Serif Pro', serif;
+      position: relative;
+      text-align: center;
+      font-size: 30px;
+      padding-top: 40px;
+      padding-bottom: 40px;
+ }
+ #contacts{
+    background-color:rgb(213, 219, 219) ;
+} 
+ #contacts2{font-family: 'Source Serif Pro', serif; 
+    position: relative;
+    font-size: 30px;
+} 
+.contacts1{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.text{ 
+    margin:0 10px;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+}
+.contact{
+    display: flex;
+    padding-left: 300px;
+    padding-bottom: 10px;
+}  
